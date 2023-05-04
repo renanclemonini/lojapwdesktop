@@ -1,0 +1,3 @@
+model\dao\ClienteDAO.class
+model\bean\Cliente.class
+connection\ConnectionFactory.class
